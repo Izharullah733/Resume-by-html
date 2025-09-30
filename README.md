@@ -6,7 +6,7 @@ It is designed to look professional both on screen and when exported as a **PDF*
 ---
 
 ## 📂 Repository Contents
-- `resume.html` — the main file, pure HTML with inline styles.  
+- `index.html` — the main file, pure HTML with inline styles.  
 - `README.md` — documentation explaining how to view, print, and customize the resume.  
 
 ---
