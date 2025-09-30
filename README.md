@@ -59,9 +59,9 @@ Skills
 
 Research Area
 
-Projects: Each project is a <div> with <h3>, <p> (dates, org), and <ul> for bullet points.
+Projects: Each project is a <div with <h3, <p (dates, org), and <ul for bullet points.
 
-Skills: Stored in a single <ul>, easy to expand/remove.
+Skills: Stored in a single <ul, easy to expand/remove.
 
 📑 Sections Explained
 Summary → High-level introduction about your background and expertise.
